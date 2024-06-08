@@ -1,2 +1,2 @@
 # JSNotes.js
-console.log("hello!");
+- console.log("hello!");
