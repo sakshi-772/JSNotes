@@ -89,8 +89,8 @@ console.log(concat);
 //we use (str.charAt(index)) function
 
 s2="sakshi";
-concat=s2.charAt(4);
-console.log(concat);
+del=s2.charAt(4);
+console.log(del);
 
 
 
